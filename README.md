@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on BREWD - an app for coffee nerds
-- 🌱 I’m currently learning react & sass
+- 🌱 I’m currently learning react & Java
 - 👯 I’m looking to collaborate on full stack development projects
 - 🤔 I’m looking for help with launching my career in the tech industry as a junior developer
 - 💬 Ask me about my favorite podcasts.
